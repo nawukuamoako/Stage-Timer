@@ -27,3 +27,30 @@ A simple web-based timer application designed to help manage speaker sessions du
 
 ```bash
 git clone https://github.com/nawukuamoako/Stage-Timer.git
+
+### Open index.html in your web browser
+
+### Usage
+- Click Add Speaker to create a new speaker timer form.
+- Enter the session name and speaker name.
+- Set the desired timer duration (hours, minutes, seconds).
+- Click Start Timer to open a pop-up window with the countdown timer.
+- The timer counts down to zero and resets if another timer is started.
+
+---
+
+## Code Overview
+- index.html: Main HTML page containing speaker forms and buttons.
+- timer.js: JavaScript logic to dynamically create speaker forms, manage timers, and handle the pop-up timer window.
+- Inline CSS is used for quick styling of forms and timer display.
+
+### Technologies Used
+- JavaScript
+- HTML
+- CSS3
+
+### Future Improvements
+- Add pause, resume, and reset timer controls.
+- Add audio or visual alerts when timer ends.
+- Improve input validation for time fields.
+- Move styles to separate CSS file for better maintainability.
