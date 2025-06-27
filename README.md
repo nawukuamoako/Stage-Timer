@@ -28,7 +28,7 @@ A simple web-based timer application designed to help manage speaker sessions du
 ```bash
 git clone https://github.com/nawukuamoako/Stage-Timer.git
 ```
-### Open index.html in your web browser
+### Open timer.html in your web browser
 
 ### Usage
 - Click Add Speaker to create a new speaker timer form.
