@@ -42,15 +42,14 @@ git clone https://github.com/nawukuamoako/Stage-Timer.git
 ## Code Overview
 - index.html: Main HTML page containing speaker forms and buttons.
 - timer.js: JavaScript logic to dynamically create speaker forms, manage timers, and handle the pop-up timer window.
-- Inline CSS is used for quick styling of forms and timer display.
+- timer.css: CSS is used for styling of forms and timer display.
 
 ### Technologies Used
 - JavaScript
 - HTML
-- CSS3
+- CSS
 
 ### Future Improvements
 - Add pause, resume, and reset timer controls.
 - Add audio or visual alerts when timer ends.
 - Improve input validation for time fields.
-- Move styles to separate CSS file for better maintainability.
