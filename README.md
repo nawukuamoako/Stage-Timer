@@ -14,6 +14,11 @@ A simple web-based timer application designed to help manage speaker sessions du
 
 ---
 
+## Demo
+https://nawukuamoako.github.io/Stage-Timer/
+
+---
+
 ## Getting Started
 
 ### Prerequisites
