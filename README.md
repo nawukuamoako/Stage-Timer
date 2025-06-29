@@ -56,5 +56,6 @@ git clone https://github.com/nawukuamoako/Stage-Timer.git
 
 ### Future Improvements
 - Add pause, resume, and reset timer controls.
+- Message section to display a message for the speaker
 - Add audio or visual alerts when timer ends.
 - Improve input validation for time fields.
